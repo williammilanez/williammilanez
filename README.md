@@ -5,13 +5,13 @@
 
 <table style="background-color: #f8f9fa; width: 100%; border-collapse: collapse;">
 <tr>
-<td style="padding: 20px; vertical-align: top;">
+<td style="padding: 20px; vertical-align: top; background-color: #f8f9fa;">
 
 ## Sobre Mim! 👨‍💻
 Profissional em transição de carreira para a Tecnologia da Informação, com foco em Desenvolvimento Web. Apaixonado por tecnologia, busco unir minha experiência administrativa a soluções digitais inovadoras.
 
 </td>
-<td style="padding: 20px; vertical-align: top;">
+<td style="padding: 20px; vertical-align: top; background-color: #f8f9fa;">
 
 <img src="https://github.com/williammilanez/williammilanez/raw/main/images/about%20me.webp" alt="Sobre Mim" width="300">
 
@@ -19,7 +19,7 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 </tr>
 
 <tr>
-<td style="padding: 20px; vertical-align: top;">
+<td style="padding: 20px; vertical-align: top; background-color: #f8f9fa;">
 
 ## Habilidades 🚀
 - **Administração e Gestão:** Gestão de processos, desenvolvimento de fluxos com mais de 10 anos de experiência na área.
@@ -28,7 +28,7 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 - **Idiomas:** Inglês intermediário/avançado.
 
 </td>
-<td style="padding: 20px; vertical-align: top;">
+<td style="padding: 20px; vertical-align: top; background-color: #f8f9fa;">
 
 <img src="https://github.com/williammilanez/williammilanez/raw/main/images/skills.webp" alt="Habilidades" width="300">
 
@@ -36,13 +36,13 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 </tr>
 
 <tr>
-<td style="padding: 20px; vertical-align: top;">
+<td style="padding: 20px; vertical-align: top; background-color: #f8f9fa;">
 
 ## Objetivos ✨
 Crescer como profissional em **TI**, contribuindo com meu conhecimento para projetos inovadores e desafiadores.
 
 </td>
-<td style="padding: 20px; vertical-align: top;">
+<td style="padding: 20px; vertical-align: top; background-color: #f8f9fa;">
 
 <img src="https://github.com/williammilanez/williammilanez/raw/main/images/objectives.webp" alt="Objetivos" width="300">
 
