@@ -19,8 +19,7 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 </tr>
 
 <tr>
-<td>
-
+<td style="background-color: #57606a;"> <!-- Adicionando a cor do fundo aqui -->
 ## Habilidades 🚀
 - **Administração e Gestão:** Gestão de processos, desenvolvimento de fluxos com mais de 10 anos de experiência na área.
 - **Tecnologia da Informação:** Aperfeiçoando conhecimento em **HTML**, **CSS**, **JavaScript**, APIs e bibliotecas modernas.
@@ -28,23 +27,19 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 - **Idiomas:** Inglês intermediário/avançado.
 
 </td>
-<td>
-
+<td style="background-color: #57606a;"> <!-- Cor igual aqui também -->
 <img src="https://github.com/williammilanez/williammilanez/raw/main/images/skills.webp" alt="Habilidades" width="300">
 
 </td>
 </tr>
 
 <tr>
-<td>
-
+<td style="background-color: #57606a;">
 ## Objetivos ✨
 Crescer como profissional em **TI**, contribuindo com meu conhecimento para projetos inovadores e desafiadores.
 
 </td>
-<td>
-
-<!-- Aqui você vai inserir a imagem que deseja para "Objetivos" -->
+<td style="background-color: #f8f9fa;">
 <img src="https://github.com/williammilanez/williammilanez/raw/main/images/objectives.webp" alt="Objetivos" width="300">
 
 </td>
