@@ -8,7 +8,7 @@
 <td>
 
 ## Sobre Mim! 👨‍💻
-Profissional em transição de carreira para a Tecnologia da Informação, com foco em Desenvolvimento Web. Apaixonado por tecnologia, busca unir experiência administrativa a soluções digitais inovadoras.
+Profissional em transição de carreira para a Tecnologia da Informação, com foco em Desenvolvimento Web. Apaixonado por tecnologia, busco unir minha experiência administrativa a soluções digitais inovadoras.
 
 </td>
 <td>
@@ -22,9 +22,9 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 <td>
 
 ## Habilidades 🚀
-- **Administração e Gestão:** Organização, gestão de processos, desenvolvimento de fluxos e mais de 10 anos de experiência em administração.
-- **Tecnologia da Informação:** Estudo em **HTML**, **CSS**, **JavaScript**, APIs e bibliotecas modernas.
-- **Inteligência Artificial:** Explorador da área, focado em aprendizado e aplicação de técnicas relacionadas à Inteligência Artificial.
+- **Administração e Gestão:** Gestão de processos, desenvolvimento de fluxos com mais de 10 anos de experiência na área.
+- **Tecnologia da Informação:** Aperfeiçoando conhecimento em **HTML**, **CSS**, **JavaScript**, APIs e bibliotecas modernas.
+- **Inteligência Artificial:** Explorando e descobrindo aplicação de técnicas relacionadas à Inteligência Artificial.
 - **Idiomas:** Inglês intermediário/avançado.
 
 </td>
@@ -39,7 +39,7 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 <td>
 
 ## Objetivos ✨
-Crescer como profissional em **TI**, aplicando conhecimentos adquiridos e contribuindo para projetos desafiadores.
+Crescer como profissional em **TI**, contribuindo com meu conhecimento para projetos inovadores e desafiadores.
 
 </td>
 <td>
