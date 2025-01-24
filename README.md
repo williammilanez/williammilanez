@@ -22,7 +22,7 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 <td>
 
 ## Habilidades 🚀
-- **Administração e Gestão:** 10 anos de experiência em gestão de processos e desenvolvimento de fluxos.
+- **Administração e Gestão:** Ampla experiência em gestão de processos e desenvolvimento de fluxos.
 - **Tecnologia da Informação:** Aperfeiçoamento em HTML, CSS, JavaScript, APIs e bibliotecas modernas.
 - **Inteligência Artificial:** Explorando aplicações de IA.
 - **Idiomas:** Inglês intermediário/avançado.
