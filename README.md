@@ -5,7 +5,7 @@
 
 <table style="background-color: #444b52">
 <tr>
-<td style="margin-top: 0;">
+<td>
 
 ## Sobre Mim! 👨‍💻
 Profissional em transição de carreira para a Tecnologia da Informação, com foco em Desenvolvimento Web. Apaixonado por tecnologia, busco unir minha experiência administrativa a soluções digitais inovadoras.
@@ -19,7 +19,7 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 </tr>
 
 <tr>
-<td style="margin-top: 0;">
+<td>
 
 ## Habilidades 🚀
 - **Administração e Gestão:** Ampla experiência em gestão de processos e desenvolvimento de fluxos.
@@ -36,7 +36,7 @@ Profissional em transição de carreira para a Tecnologia da Informação, com f
 </tr>
 
 <tr>
-<td style="margin-top: 0;">
+<td>
 
 ## Objetivos ✨
 Crescer como profissional em **TI**, contribuindo com meu conhecimento para projetos inovadores e desafiadores.
@@ -49,4 +49,3 @@ Crescer como profissional em **TI**, contribuindo com meu conhecimento para proj
 </td>
 </tr>
 </table>
-
