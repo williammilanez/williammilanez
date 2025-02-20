@@ -2,7 +2,7 @@ Hi!!!!! I’m **William Milanez** <br>
 A passionate developer transitioning into the world of **Full Stack Development**. 🚀
 <br>
 
-<div style="display: flex; justify-content: left; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: left; align-items: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/williammilanez/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="filter: brightness(1.75);" />
   </a>
@@ -12,22 +12,25 @@ A passionate developer transitioning into the world of **Full Stack Development*
 </div>
 <br>
 
-<div style="display: flex; justify-content: left; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: left; align-items: center; gap: 20px;">
   <img src="https://github.com/user-attachments/assets/8de11631-928c-4976-91df-572f45992f99" width="30" height="30" />
   <img src="https://github.com/user-attachments/assets/8b2751d2-991b-461d-a176-92a8fb91c6bf" width="30" height="30" />
   <img src="https://github.com/user-attachments/assets/beb9ada4-a884-47cb-855d-13b32e2c6a39" width="30" height="30" />
 </div>
 <br>
 
-- Currently Studying 📚
-**Full Stack** 
+Currently Studying 📚
+- **Full Stack** 
+<br>
 
-- Workstation Tools 💻
-**Editor:** Visual Studio Code (VSCode)
-**Operating System:** Windows
+Workstation Tools 💻
+- **Editor:** Visual Studio Code (VSCode)
+- **Operating System:** Windows
+<br>
 
-- Other Interests 🌐
-Exploring **Artificial Intelligence** and building projects with it 🤖
+Other Interests 🌐
+- Exploring **Artificial Intelligence** and building projects with it 🤖
+<br>
 
-**Good trip!!!** 🍁🍂🍃
+**Good trip!!!** 🍁🍂🍃 <br>
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
