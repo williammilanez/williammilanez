@@ -2,9 +2,9 @@ Hi! I’m **William Milanez**! <br>
 A passionate developer transitioning into the world of **Full Stack Development**. 🚀
 <br>
 
-<div class="links" style="display: flex; justify-content: left; align-items: center; gap: 40px;">
+<div style="display: flex; justify-content: left; align-items: center; gap: 40px; filter: brightness(2.5); transform: scale(1.1); font-weight: 700; transition: 0.5s ease;">
   <a href="https://www.linkedin.com/in/williammilanez/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="filter: brightness(2.5) transform: scale(1.1) font-weight: 700 transition: 0.5s ease" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:william.milanez@outlook.com">
     <img src="https://img.shields.io/badge/-E--mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
