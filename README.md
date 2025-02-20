@@ -2,7 +2,7 @@ Hi! I’m **William Milanez**! <br>
 A passionate developer transitioning into the world of **Full Stack Development**. 🚀
 <br>
 
-<div style="display: flex; justify-content: left; align-items: center; gap: 40px;">
+<div class="links" style="display: flex; justify-content: left; align-items: center; gap: 40px;">
   <a href="https://www.linkedin.com/in/williammilanez/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"; transition: 0.5s ease;"/>
   </a>
@@ -13,7 +13,7 @@ A passionate developer transitioning into the world of **Full Stack Development*
     <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"; transition: 0.5s ease;"/>
   </a>
   <style>
-    a:hover img {
+    a:hover .links img {
       filter: brightness(2.5);
       transform: scale(1.1);
       font-weight: 700;
