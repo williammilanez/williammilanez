@@ -17,16 +17,17 @@ A passionate developer transitioning into the world of **Full Stack Development*
   <img src="https://github.com/user-attachments/assets/8b2751d2-991b-461d-a176-92a8fb91c6bf" width="30" height="30" />
   <img src="https://github.com/user-attachments/assets/beb9ada4-a884-47cb-855d-13b32e2c6a39" width="30" height="30" />
 </div>
+<br>
 
-Currently Studying 📚
-- **Full Stack** 
+- Currently Studying 📚
+**Full Stack** 
 
-Workstation Tools 💻
-- **Editor:** Visual Studio Code (VSCode)
-- **Operating System:** Windows
+- Workstation Tools 💻
+**Editor:** Visual Studio Code (VSCode)
+**Operating System:** Windows
 
-Other Interests 🌐
-- Exploring **Artificial Intelligence** and building projects with it 🤖
+- Other Interests 🌐
+Exploring **Artificial Intelligence** and building projects with it 🤖
 
 **Good trip!!!** 🍁🍂🍃
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
