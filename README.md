@@ -1,16 +1,28 @@
-# Hi!!! I’m **William Milanez**
+# Hi!!! 
+<div style="display: flex; justify-content: left; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/f6fd93d2-e674-40ce-9f35-485da7fb8c25" width="80" height="80" />
+</div>
 
-A passionate developer transitioning into the world of **Full Stack Development**.<br>
+### About me:
+I’m **William Milanez**, a passionate developer transitioning into the world of **Full Stack Development**.<br>
 Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1DB954?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/williammilanez/)](https://www.linkedin.com/in/williammilanez/)
-[![E-mail](https://img.shields.io/badge/-E--mail-1DB954?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:william.milanez@outlook.com)](mailto:william.milanez@outlook.com)
+<div style="display: flex; justify-content: left; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/williammilanez/">
+    <img src="https://img.shields.io/badge/-LinkedIn-1DB954?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:william.milanez@outlook.com">
+    <img src="https://img.shields.io/badge/-E--mail-1DB954?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</div>
 
-![image](https://github.com/user-attachments/assets/8de11631-928c-4976-91df-572f45992f99)
-![image](https://github.com/user-attachments/assets/8b2751d2-991b-461d-a176-92a8fb91c6bf)
-![image](https://github.com/user-attachments/assets/beb9ada4-a884-47cb-855d-13b32e2c6a39)
+<div style="display: flex; justify-content: left; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/8de11631-928c-4976-91df-572f45992f99" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/8b2751d2-991b-461d-a176-92a8fb91c6bf" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/beb9ada4-a884-47cb-855d-13b32e2c6a39" width="100" height="100" />
+</div>
 
-### HTML5 
+**HTML5**
 - Estrutura Semântica
 - Novos Formatos de Input
 - Áudio e Vídeo
@@ -19,7 +31,7 @@ Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
 - Formulários Avançados
 - Geolocalização
 
-### CSS3
+**CSS3**
 - Seletores e Propriedades
 - Box Model
 - Layout
@@ -27,7 +39,7 @@ Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
 - Responsividade
 - Animações e Transições
 
-### JavaScript
+**JavaScript**
 - Sintaxe e Estruturas Básicas
 - Funções
 - Manipulação de DOM
@@ -37,14 +49,14 @@ Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
 - ES6 e Recursos Modernos
 - Manipulação de erros
 
-## Currently Studying:
+### Currently Studying:
 - **Full Stack** 🔍
 
-## Workstation Tools:
+### Workstation Tools:
 - **Editor:** Visual Studio Code (VSCode)
 - **Operating System:** Windows
 
-## Other Interests:
+### Other Interests:
 - Exploring **Artificial Intelligence** and building projects with it 🤖
 
 **Good trip!!!** 🍁🍃 <br>
