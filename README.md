@@ -1,4 +1,4 @@
-Hi! I’m **William Milanez**,
+# Hi!!! I’m **William Milanez**
 
 A passionate developer transitioning into the world of **Full Stack Development**.<br>
 Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
@@ -47,5 +47,5 @@ Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
 ## Other Interests:
 - Exploring **Artificial Intelligence** and building projects with it 🤖
 
-Good trip!!! 🍁🍃 <br>
-"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."
+**Good trip!!!** 🍁🍃 <br>
+***"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."***
