@@ -9,6 +9,9 @@ A passionate developer transitioning into the world of **Full Stack Development*
   <a href="mailto:william.milanez@outlook.com">
     <img src="https://img.shields.io/badge/-E--mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" style="filter: brightness(1.75);" />
   </a>
+  <a href="https://www.instagram.com/williammilanez/">
+    <img src="https://img.shields.io/badge/-LinkedIn-E1306C?style=flat-square&logo=linkedin&logoColor=white" style="filter: brightness(1.75);" />
+  </a>
 </div>
 <br>
 
@@ -19,16 +22,11 @@ A passionate developer transitioning into the world of **Full Stack Development*
 </div>
 <br>
 
-Currently Studying 📚
+Currently Studying 💻📚
 - **Full Stack** 
 <br>
 
-Workstation Tools 💻
-- **Editor:** Visual Studio Code (VSCode)
-- **Operating System:** Windows
-<br>
-
-Other Interests 🌐
+Other Interests 🌐💭
 - Exploring **Artificial Intelligence** and building projects with it 🤖
 <br>
 
