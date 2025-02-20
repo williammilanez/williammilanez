@@ -1,11 +1,7 @@
-# About Me 👋
+#Hi! I’m **William Milanez**, <br><br>
 
-Hi! I’m **[William Milanez]**, a passionate developer transitioning into the world of **Full Stack Development**.<br>
+A passionate developer transitioning into the world of **Full Stack Development**.<br>
 Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
-
-## GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williammilanez&show_icons=true&theme=radical)
 
 ![image](https://github.com/user-attachments/assets/8de11631-928c-4976-91df-572f45992f99)
 ![image](https://github.com/user-attachments/assets/8b2751d2-991b-461d-a176-92a8fb91c6bf)
