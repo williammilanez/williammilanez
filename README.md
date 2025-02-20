@@ -4,21 +4,14 @@ A passionate developer transitioning into the world of **Full Stack Development*
 
 <div class="links" style="display: flex; justify-content: left; align-items: center; gap: 40px;">
   <a href="https://www.linkedin.com/in/williammilanez/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"; transition: 0.5s ease;"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" style="transition: 0.5s ease;"/>
   </a>
   <a href="mailto:william.milanez@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-E--mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"; transition: 0.5s ease;"/>
+    <img src="https://img.shields.io/badge/-E--mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" style="transition: 0.5s ease;"/>
   </a>
   <a href="https://www.instagram.com/williammilanez/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white"; transition: 0.5s ease;"/>
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" style="transition: 0.5s ease;"/>
   </a>
-  <style>
-    a:hover .links img {
-      filter: brightness(2.5);
-      transform: scale(1.1);
-      font-weight: 700;
-}
-  </style>
 </div>
 <br>
 
@@ -39,3 +32,12 @@ Other Interests 🌐💭
 
 **Good trip!!!** 🍁🍂🍃 <br>
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
+
+<style>
+  /* Aplicando o efeito de transição nas imagens ao passar o mouse */
+  .links a:hover img {
+    filter: brightness(2.5);
+    transform: scale(1.1);
+    font-weight: 700;
+  }
+</style>
