@@ -1,7 +1,10 @@
-#Hi! I’m **William Milanez**, <br><br>
+Hi! I’m **William Milanez**,
 
 A passionate developer transitioning into the world of **Full Stack Development**.<br>
 Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1DB954?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/williammilanez/)](https://www.linkedin.com/in/williammilanez/)
+[![E-mail](https://img.shields.io/badge/-E--mail-1DB954?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:william.milanez@outlook.com)](mailto:william.milanez@outlook.com)
 
 ![image](https://github.com/user-attachments/assets/8de11631-928c-4976-91df-572f45992f99)
 ![image](https://github.com/user-attachments/assets/8b2751d2-991b-461d-a176-92a8fb91c6bf)
@@ -43,10 +46,6 @@ Currently working on mastering **HTML**, **CSS**, and **JavaScript**. 🚀
 
 ## Other Interests:
 - Exploring **Artificial Intelligence** and building projects with it 🤖
-
-## Contact Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1DB954?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/williammilanez/)](https://www.linkedin.com/in/williammilanez/)
-[![E-mail](https://img.shields.io/badge/-E--mail-1DB954?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:william.milanez@outlook.com)](mailto:william.milanez@outlook.com)
 
 Good trip!!! 🍁🍃 <br>
 "When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."
