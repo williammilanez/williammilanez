@@ -22,12 +22,48 @@ A passionate developer transitioning into the world of **Full Stack Development*
 </div>
 <br>
 
-## 🚧 Currently Learning
-- 📚 **Full Stack Web Development** (HTML, CSS, JavaScript, Node.js, React)
-- 🧠 **Postgraduate in Dev Start** – Focused on software development and systems analysis
-- 🧰 **APIs and Backend** – RESTful APIs, authentication, security, database relations
-- 🧪 **Testing & Clean Code** – writing maintainable and testable code
-- 🌐 **Version Control with Git & GitHub**
+## Currently Learning 💻📚
+
+### **Full Stack Web Development**
+- **HTML**:
+- **CSS**:
+- **JavaScript**:
+- **Node.js**:
+- **React**:
+
+### **Lógica**
+- **Fundamentos da Computação**: Preparando a base para a programação e resolução de problemas computacionais.
+- **Lógica de Programação**: Desenvolvendo habilidades para resolver problemas com lógica estruturada.
+
+### **Soft Skills**
+- **Learning Agility**: Adaptação rápida às novas demandas do mercado de tecnologia.
+- **Comunicação Eficaz**: Melhorando a interação e o trabalho em equipe em ambientes colaborativos.
+- **Construção de Portfólio**: Criando um portfólio impactante e profissional para o mercado de tecnologia.
+
+### **Produto**
+- **Gestão de Produtos e Inovação**: Desenvolvendo produtos digitais com foco em inovação e entregas rápidas (MVP).
+- **Privacidade de Dados e LGPD**: Implementando boas práticas para proteger os dados pessoais dos usuários.
+- **Metodologia Ágil**: Aplicando práticas ágeis no desenvolvimento de produtos, com foco em eficiência e entregas contínuas.
+
+### **UI/UX**
+- **Desenvolvimento de Interfaces**: Criando interfaces modernas, intuitivas e agradáveis para o usuário.
+- **Prototipagem com Figma**: Construindo protótipos e mockups eficazes utilizando o Figma.
+- **Acessibilidade**: Garantindo que produtos digitais sejam acessíveis para todos os usuários, independentemente das suas necessidades.
+
+### **Inteligência Artificial**
+- **Fundamentos de IA**: Estudo de ferramentas e técnicas de Inteligência Artificial para otimizar processos.
+- **Prompt Engineering**: Melhorando a interação com ferramentas de IA através de prompts mais eficazes.
+- **Segurança e Privacidade em IA**: Garantindo a segurança dos dados ao utilizar IA e respeitando as leis de privacidade.
+
+### **Front-end**
+- **HTML, CSS e JavaScript**: Fundamentos essenciais para o desenvolvimento de websites dinâmicos e interativos.
+- **React**: Criando interfaces web com React, aprendendo sobre componentes e estado.
+- **Responsividade e Acessibilidade**: Garantindo que as aplicações funcionem em diferentes dispositivos e sejam acessíveis a todos os usuários.
+
+### **Back-end**
+- **Node.js**: Desenvolvimento de servidores e APIs escaláveis com Node.js.
+- **TypeScript**: Usando TypeScript para criar código mais robusto e com tipos fortes.
+- **Deploy do Back-end**: Colocando as APIs em produção utilizando boas práticas de deploy e segurança.
 <br>
 
 ## 🌐 Other Interests
