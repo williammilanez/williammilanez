@@ -1,5 +1,5 @@
 Hi! I’m **William Milanez**! <br>
-A passionate developer transitioning into the world of **Full Stack Development**. 🚀
+A passionate developer transitioning into the world of **Full Stack Development**. 🚀  
 <br>
 
 <div style="display: flex; justify-content: left; align-items: center; gap: 40px;">
@@ -22,12 +22,20 @@ A passionate developer transitioning into the world of **Full Stack Development*
 </div>
 <br>
 
-Currently Studying 💻📚
-- **Full-Stack Dev**
-- **Postgraduate in Dev Start**
+## 🚧 Currently Learning
+- 📚 **Full Stack Web Development** (HTML, CSS, JavaScript, Node.js, React)
+- 🧠 **Postgraduate in Dev Start** – Focused on software development and systems analysis
+- 🧰 **APIs and Backend** – RESTful APIs, authentication, security, database relations
+- 🧪 **Testing & Clean Code** – writing maintainable and testable code
+- 🌐 **Version Control with Git & GitHub**
+<br>
 
-Other Interests 🌐💭
-- Exploring **Artificial Intelligence** and building projects with it 🤖
+## 🌐 Other Interests
+- **Artificial Intelligence** 🤖 (Exploring and building innovative projects using AI)  
+- **Web Development** 🌐 (Building Full Stack applications and expanding skills in backend and frontend technologies)  
+- **Open Source Contributions** 🤝 (Aiming to collaborate on open source projects with ideas and practical development to improve skills and share knowledge)  
+- **Stoic Philosophy** ⚖️ (Applying Stoic principles like wisdom, courage, temperance, and justice in daily life)  
+- **Explorer of the Universe and Curiosities** 🌌 (Fascinated by the mysteries of space and curious facts about the world around us)
 
-**Good trip!!!** 🍁🍂🍃 <br>
+**Good trip!!!** 🍁🍂🍃  
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
