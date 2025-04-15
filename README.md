@@ -13,7 +13,7 @@ A passionate developer transitioning into the world of **Full Stack Development*
   </a>
 </div>
 
-## Currently Learning 💻📚
+Currently Learning 💻📚
 ### **Full Stack Web Development**
 - **HTML**; **CSS**; **JavaScript**; **Node.js**; **React**.
 ### **Postgraduate Dev Start**
@@ -25,7 +25,7 @@ A passionate developer transitioning into the world of **Full Stack Development*
 - **Front-end**: HTML, CSS e JavaScript; React; Responsividade e Acessibilidade.
 - **Back-end**: Node.js; TypeScript; Deploy do Back-end.
 
-## 🌐 Interests
+🌐 Interests
 - **Artificial Intelligence** 🤖 (Exploring and building innovative projects using AI)  
 - **Web Development** 🌐 (Building Full Stack applications and expanding skills in backend and frontend technologies)  
 - **Open Source Contributions** 🤝 (Aiming to collaborate on open source projects with ideas and practical development to improve skills and share knowledge)  
