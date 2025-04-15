@@ -1,6 +1,5 @@
 Hi! I’m **William Milanez**! <br>
 A passionate developer transitioning into the world of **Full Stack Development**. 🚀  
-<br>
 
 <div style="display: flex; justify-content: left; align-items: center; gap: 40px;">
   <a href="https://www.linkedin.com/in/williammilanez/" >
@@ -13,7 +12,6 @@ A passionate developer transitioning into the world of **Full Stack Development*
     <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </div>
-<br>
 
 ### Currently Learning 💻📚
 **Full Stack Web Development**
