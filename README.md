@@ -13,12 +13,10 @@ A passionate developer transitioning into the world of **Full Stack Development*
   </a>
 </div>
 
-### Currently Learning 💻📚
-
-**Full Stack Web Development**
+## Currently Learning 💻📚
+### **Full Stack Web Development**
 - **HTML**; **CSS**; **JavaScript**; **Node.js**; **React**.
-
-**Postgraduate Dev Start**
+### **Postgraduate Dev Start**
 - **Lógica**: Fundamentos da Computação; Lógica de Programação.
 - **Soft Skills**: Learning Agility; Comunicação Eficaz; Construção de Portfólio.
 - **Produto**: Gestão de Produtos e Inovação; Privacidade de Dados e LGPD; Metodologia Ágil.
@@ -27,8 +25,7 @@ A passionate developer transitioning into the world of **Full Stack Development*
 - **Front-end**: HTML, CSS e JavaScript; React; Responsividade e Acessibilidade.
 - **Back-end**: Node.js; TypeScript; Deploy do Back-end.
 
-### 🌐 Interests
-
+## 🌐 Interests
 - **Artificial Intelligence** 🤖 (Exploring and building innovative projects using AI)  
 - **Web Development** 🌐 (Building Full Stack applications and expanding skills in backend and frontend technologies)  
 - **Open Source Contributions** 🤝 (Aiming to collaborate on open source projects with ideas and practical development to improve skills and share knowledge)  
