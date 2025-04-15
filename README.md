@@ -22,7 +22,7 @@ A passionate developer transitioning into the world of **Full Stack Development*
 </div>
 <br>
 
-### 💻📚 Currently Learning
+### Currently Learning 💻📚
 **Full Stack Web Development**
 - **HTML**; **CSS**; **JavaScript**; **Node.js**; **React**.
 **Postgraduate Dev Start**
@@ -41,5 +41,5 @@ A passionate developer transitioning into the world of **Full Stack Development*
 - **Stoic Philosophy** ⚖️ (Applying Stoic principles like wisdom, courage, temperance, and justice in daily life)  
 - **Explorer of the Universe and Curiosities** 🌌 (Fascinated by the mysteries of space and curious facts about the world around us)
 
-🍁🍂🍃 **Good trip!!!** <br>
+**Good trip!** 🍁🍂🍃<br>
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
