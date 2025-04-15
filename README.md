@@ -31,12 +31,3 @@ Other Interests 🌐💭
 
 **Good trip!!!** 🍁🍂🍃 <br>
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
-
----
-
-**Projects** 🚀:
-- [MicroSaaS Project](#) (Link para seu projeto futuro)
-- [API Challenge - FlowBanco-Tech](#) (Link para o seu desafio técnico)
-
-Contributions 📈:
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=william-milanez&theme=github)
