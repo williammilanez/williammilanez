@@ -36,6 +36,7 @@ A passionate developer transitioning into the world of **Full Stack Development*
 - **Open Source Contributions** 🤝 (Aiming to collaborate on open source projects with ideas and practical development to improve skills and share knowledge)  
 - **Stoic Philosophy** ⚖️ (Applying Stoic principles like wisdom, courage, temperance, and justice in daily life)  
 - **Explorer of the Universe and Curiosities** 🌌 (Fascinated by the mysteries of space and curious facts about the world around us)
+<br>
 
 **Good trip!!!** 🍁🍂🍃  
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
