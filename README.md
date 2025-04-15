@@ -15,13 +15,6 @@ A passionate developer transitioning into the world of **Full Stack Development*
 </div>
 <br>
 
-<div style="display: flex; justify-content: left; align-items: center; gap: 40px;">
-  <img src="https://github.com/user-attachments/assets/8de11631-928c-4976-91df-572f45992f99" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/8b2751d2-991b-461d-a176-92a8fb91c6bf" width="50" height="50" />
-  <img src="https://github.com/user-attachments/assets/beb9ada4-a884-47cb-855d-13b32e2c6a39" width="50" height="50" />
-</div>
-<br>
-
 ### Currently Learning 💻📚
 **Full Stack Web Development**
 - **HTML**; **CSS**; **JavaScript**; **Node.js**; **React**.
