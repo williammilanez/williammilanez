@@ -27,7 +27,6 @@ A passionate developer transitioning into the world of **Full Stack Development*
 - **Inteligência Artificial**: Fundamentos de IA; Prompt Engineering; Segurança e Privacidade em IA.
 - **Front-end**: HTML, CSS e JavaScript; React; Responsividade e Acessibilidade.
 - **Back-end**: Node.js; TypeScript; Deploy do Back-end.
-<br>
 
 ## Interests 🌐🔮💡
 - 🤖 **Artificial Intelligence**: Exploring and building innovative projects using AI.
