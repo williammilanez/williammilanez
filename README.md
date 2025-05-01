@@ -28,14 +28,6 @@ A passionate developer transitioning into the world of **Full Stack Development*
 - **Front-end**: HTML, CSS e JavaScript; React; Responsividade e Acessibilidade.
 - **Back-end**: Node.js; TypeScript; Deploy do Back-end.
 
-## Interests 🌐🔮💡
-- 🤖 **Artificial Intelligence**: Exploring and building innovative projects using AI.
-- 👨🏻‍💻 **Web Development**: Building Full Stack applications and expanding skills in backend and frontend technologies.
-- 🤝 **Open Source Contributions**: Aiming to collaborate on open source projects with ideas and practical development to improve skills and share knowledge.
-- ⚖️ **Stoic Philosophy** Applying Stoic principles like wisdom, courage, temperance, and justice in daily life.
-- 🌌 **Explorer of the Universe and Curiosities**: Fascinated by the mysteries of space and curious facts about the world around us.
-<br>
-
 **Good trip!** 🍁🍂🍃
 <br>
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
