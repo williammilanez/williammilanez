@@ -16,7 +16,7 @@ A passionate developer transitioning into the world of **Full Stack Development*
 </div>
 <br>
 
-## Currently Learning 💻📚📌
+## Currently Learning 📚
 ### **Formação: Full Stack Web Developer**
 - **HTML**; **CSS**; **JavaScript**; **Node.js**; **React**.
 ### **Pós-graduação: Dev Start**
@@ -28,6 +28,6 @@ A passionate developer transitioning into the world of **Full Stack Development*
 - **Front-end**: HTML, CSS e JavaScript; React; Responsividade e Acessibilidade.
 - **Back-end**: Node.js; TypeScript; Deploy do Back-end.
 
-**Good trip!** 🍁🍂🍃
+**Good trip!** 🍁
 <br>
 *"When a butterfly flutters its wings in one part of the world, it can eventually cause a hurricane in another."*
