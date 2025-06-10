@@ -21,6 +21,6 @@ Apaixonado por tecnologia, aprendizado contínuo e construção de soluções pr
 - **Back-end:** Node.js; TypeScript; Deploy do Back-end.
 
 ### Contato 📫 
-[![E-mail](https://img.shields.io/badge/-E--mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:william.milanez@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williammilanez/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/williammilanez/)
+[![E-mail](https://img.shields.io/badge/-E--mail-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:william.milanez@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williammilanez/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/williammilanez/)
