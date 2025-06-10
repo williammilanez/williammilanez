@@ -1,7 +1,7 @@
 # William Milanez
 Full Stack | Web Developer em formação
 
-## Sobre mim 👋
+### Sobre mim 👋
 Profissional com experiência em gestão administrativa, atualmente em transição para a área de Tecnologia da Informação, com foco em Desenvolvimento Web - Full Stack.  
 Apaixonado por tecnologia, aprendizado contínuo e construção de soluções práticas com impacto real.
 
