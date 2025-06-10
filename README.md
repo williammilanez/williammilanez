@@ -6,9 +6,9 @@ Profissional com experiência em gestão administrativa, atualmente em transiç�
 Apaixonado por tecnologia, aprendizado contínuo e construção de soluções práticas com impacto real.
 
 ### Tecnologias 👨🏻‍💻
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
-![Javascript](https://img.shields.io/badge/-Javascript-000?style=flat&logo=Javascript)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Atualmente estudando 📚
 **Pós-graduação: Dev Start - [Rocketseat](https://www.rocketseat.com.br)** 🚀  
