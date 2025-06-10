@@ -11,7 +11,7 @@ Apaixonado por tecnologia, aprendizado contínuo e construção de soluções pr
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Atualmente estudando 📚
-**Pós-graduação: Dev Start - [Rocketseat](https://www.rocketseat.com.br)** 🚀  
+**Pós-graduação Dev Start Rocketseat** 🚀  
 - **Lógica:** Fundamentos da Computação; Lógica de Programação.  
 - **Soft Skills:** Learning Agility; Comunicação Eficaz; Construção de Portfólio.  
 - **Produto:** Gestão de Produtos e Inovação; Privacidade de Dados e LGPD; Metodologia Ágil.  
