@@ -1,26 +1,29 @@
 # William Milanez
-Full Stack | Web Developer em formação
+Full Stack Developer | React, TypeScript, Node.js, PostgreSQL | Business Process, Supply Chain & Operations Expertise
 
 ### Sobre mim 👋
-Profissional com experiência em gestão administrativa, atualmente em transição para a área de Tecnologia da Informação, com foco em Desenvolvimento Web - Full Stack.  
-Apaixonado por tecnologia, aprendizado contínuo e construção de soluções práticas com impacto real.
+Profissional com mais de 10 anos de experiência em compras, suprimentos, gestão de materiais e processos administrativos.
+
+Atualmente desenvolvo aplicações web com React, TypeScript, Node.js e PostgreSQL, aplicando minha experiência em processos corporativos para construir soluções orientadas a negócio.
+
+Interesse em Desenvolvimento Full Stack, Sistemas Corporativos, SaaS B2B, HealthTech e Automação de Processos.
 
 ### Tecnologias 👨🏻‍💻
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Atualmente estudando 📚
-**Pós-graduação Dev Start Rocketseat** 🚀  
-- **Lógica:** Fundamentos da Computação; Lógica de Programação.  
-- **Soft Skills:** Learning Agility; Comunicação Eficaz; Construção de Portfólio.  
-- **Produto:** Gestão de Produtos e Inovação; Privacidade de Dados e LGPD; Metodologia Ágil.  
-- **UI/UX:** Desenvolvimento de Interfaces; Prototipagem com Figma; Acessibilidade.  
-- **Inteligência Artificial:** Fundamentos de IA; Prompt Engineering; Segurança e Privacidade em IA.  
-- **Front-end:** HTML, CSS e JavaScript; React; Responsividade e Acessibilidade.  
-- **Back-end:** Node.js; TypeScript; Deploy do Back-end.
+- Fundamentos avançados de JavaScript e TypeScript
+- Testes Automatizados
+- Modelagem e consultas SQL
+- Arquitetura de Software
+- Deploy de aplicações web
 
 ### Contato 📫 
 [![E-mail](https://img.shields.io/badge/-E--mail-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:william.milanez@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williammilanez/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/williammilanez/)
